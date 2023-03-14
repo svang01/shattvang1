@@ -6,3 +6,6 @@ This command deletes files.
 git checkout 
 
 When you want to switch to a different branch, use this command followed by the branch name. 
+
+git branch
+The command lists all the branches in your repository and tells you what branch you are in. 
